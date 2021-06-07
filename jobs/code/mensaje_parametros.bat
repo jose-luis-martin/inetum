@@ -1,3 +1,3 @@
 @echo off
-echo 'Trabajo basico jenkins'
+echo 'Trabajo basico jenkins' %AUTOR%
 pause
